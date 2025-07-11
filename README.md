@@ -35,4 +35,6 @@ TODO: Complete the following table of algorithm-related information.
   
 ## <a name="supplemental">2. Supplemental Resources</a>
 
-(TODO)
+* *[Wikibooks Article on Artificial Intelligence](https://en.wikibooks.org/wiki/Artificial_Intelligence)*
+* *[Wikibooks Article on Artificial Neural Networks](https://en.wikibooks.org/wiki/Artificial_Neural_Networks)*
+* *[Wikipedia Article on Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)*
