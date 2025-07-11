@@ -9,25 +9,27 @@
   
 ## <a name="algos">1. Machine Learning Algorithms</a>
 
-TODO: Algorithms that will be covered in this guide include...
+TODO: Complete the following table of algorithm-related information.
 
-* Linear Regression
-* Logistic Regression
-* Decision Tree
-* Random Forest
-* Gradient Boosting
-* SVM
-* KNN
-* Naive Bayes
-* K-Means
-* Hierarchical Clustered
-* PCA
-* Neural Networks (MLP)
-* CNN
-* RNN
-* Transformers, BERT, GPT
-* Autoencoders
-* DBSCAN
+| Algorithm | Type | Reason to Use | Reason Not to Use | Associated Logic | Strengths |  Weaknesses | Example |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| Linear Regression | Supervised | | | | | | |
+| Logistic Regression | Supervised | | | | | | |
+| Decision Tree | Supervised | | | | | | |
+| Random Forest | Supervised | | | | | | |
+| Gradient Boosting | Supervised | | | | | | |
+| SVM | Supervised | | | | | | |
+| KNN | Supervised | | | | | | |
+| Naive Bayes | Supervised | | | | | | |
+| K-Means | Unsupervised | | | | | | |
+| Hierarchical Clustered | Unsupervised | | | | | | |
+| PCA | Dimensional Reduction | | | | | | |
+| Neural Networks (MLP) | Supervised | | | | | | |
+| CNN | Supervised | | | | | | |
+| RNN | Supervised | | | | | | |
+| Transformers, BERT, GPT | Self-Supervised | | | | | | |
+| Autoencoders | Unsupervised | | | | | | |
+| DBSCAN | Unsupervised | | | | | | |
   
 <hr />
   
