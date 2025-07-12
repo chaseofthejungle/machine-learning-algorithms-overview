@@ -13,23 +13,23 @@ TODO: Complete the following table of algorithm-related information.
 
 | Algorithm | Type | Reason to Use | Reason Not to Use | Associated Logic | Strengths |  Weaknesses | Example |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| Linear Regression | Supervised | | | | | | |
-| Logistic Regression | Supervised | | | | | | |
-| Decision Tree | Supervised | | | | | | |
-| Random Forest | Supervised | | | | | | |
-| Gradient Boosting | Supervised | | | | | | |
-| SVM | Supervised | | | | | | |
-| KNN | Supervised | | | | | | |
-| Naive Bayes | Supervised | | | | | | |
-| K-Means | Unsupervised | | | | | | |
-| Hierarchical Clustered | Unsupervised | | | | | | |
-| PCA | Dimensional Reduction | | | | | | |
-| Neural Networks (MLP) | Supervised | | | | | | |
-| CNN | Supervised | | | | | | |
-| RNN | Supervised | | | | | | |
-| Transformers, BERT, GPT | Self-Supervised | | | | | | |
-| Autoencoders | Unsupervised | | | | | | |
-| DBSCAN | Unsupervised | | | | | | |
+| Linear Regression | Supervised | | | | Fast, Non-Complex, Easy to Interpet | | |
+| Logistic Regression | Supervised | | | | Easy to Interpret, Probability-Based | | |
+| Decision Tree | Supervised | | | | Easy to Interpret | | |
+| Random Forest | Supervised | | | | Robust, High Accuracy | | |
+| Gradient Boosting | Supervised | | | | (Very?) High Accuracy | | |
+| SVM | Supervised | | | | High Dimensionality | | |
+| KNN | Supervised | | | | No Training Needed, Non-Complex | | |
+| Naive Bayes | Supervised | | | | Handles Text, Fast | | |
+| K-Means | Unsupervised | | | | Easy to Set Up, Fast | | |
+| Hierarchical Clustered | Unsupervised | | | | Visual/Graphics, No 'K' Needed | | |
+| PCA | Dimensional Reduction | | | | Fast, Reduced Noise | | |
+| Neural Networks (MLP) | Supervised | | | | Flexible/Non-Linear Learning Capabilities | | |
+| CNN | Supervised | | | | Handles Images | | |
+| RNN | Supervised | | | | Handles Text and Time Series | | |
+| Transformers, BERT, GPT | Self-Supervised | | | | Lengthy Contexts, Fast | | |
+| Autoencoders | Unsupervised | | | | Reduced Noise | | |
+| DBSCAN | Unsupervised | | | | Shapeable, Noise Handling | | |
   
 <hr />
   
