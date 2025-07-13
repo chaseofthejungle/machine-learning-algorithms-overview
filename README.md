@@ -13,23 +13,23 @@ TODO: Complete the following table of algorithm-related information.
 
 | Algorithm | Type | Reason to Use | Reason Not to Use | Associated Logic | Strengths |  Weaknesses | Example |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| Linear Regression | Supervised | | | | Fast, Non-Complex, Easy to Interpet | | |
-| Logistic Regression | Supervised | | | | Easy to Interpret, Probability-Based | | |
-| Decision Tree | Supervised | | | | Easy to Interpret | | |
-| Random Forest | Supervised | | | | Robust, High Accuracy | | |
-| Gradient Boosting | Supervised | | | | (Very?) High Accuracy | | |
-| SVM | Supervised | | | | High Dimensionality | | |
-| KNN | Supervised | | | | No Training Needed, Non-Complex | | |
-| Naive Bayes | Supervised | | | | Handles Text, Fast | | |
-| K-Means | Unsupervised | | | | Easy to Set Up, Fast | | |
-| Hierarchical Clustered | Unsupervised | | | | Visual/Graphics, No 'K' Needed | | |
-| PCA | Dimensional Reduction | | | | Fast, Reduced Noise | | |
-| Neural Networks (MLP) | Supervised | | | | Flexible/Non-Linear Learning Capabilities | | |
-| CNN | Supervised | | | | Handles Images | | |
-| RNN | Supervised | | | | Handles Text and Time Series | | |
-| Transformers, BERT, GPT | Self-Supervised | | | | Lengthy Contexts, Fast | | |
-| Autoencoders | Unsupervised | | | | Reduced Noise | | |
-| DBSCAN | Unsupervised | | | | Shapeable, Noise Handling | | |
+| Linear Regression | Supervised | | | | Fast, Non-Complex, Easy to Interpet | | Real Estate Price Predictors/Calculators |
+| Logistic Regression | Supervised | | | | Easy to Interpret, Probability-Based | | Malware Detection Software |
+| Decision Tree | Supervised | | | | Easy to Interpret | | Loan Default Predictors/Risk Assessments |
+| Random Forest | Supervised | | | | Robust, High Accuracy | | Fraud Detection Software |
+| Gradient Boosting | Supervised | | | | (Very?) High Accuracy | | Credit Score Systems |
+| SVM | Supervised | | | | High Dimensionality | | Facial Recognition Mechanisms |
+| KNN | Supervised | | | | No Training Needed, Non-Complex | | Recommendation Systems |
+| Naive Bayes | Supervised | | | | Handles Text, Fast | | Sentiment Analyzers |
+| K-Means | Unsupervised | | | | Easy to Set Up, Fast | | Customer Segmenters |
+| Hierarchical Clustered | Unsupervised | | | | Visual/Graphics, No 'K' Needed | | Genetics Analysis |
+| PCA | Dimensional Reduction | | | | Fast, Reduced Noise | | Image Compressor Software |
+| Neural Networks (MLP) | Supervised | | | | Flexible/Non-Linear Learning Capabilities | | Image Classification Software |
+| CNN | Supervised | | | | Handles Images | | Self-Driving Mechanisms |
+| RNN | Supervised | | | | Handles Text and Time Series | | Stock Predictors |
+| Transformers, BERT, GPT | Self-Supervised | | | | Lengthy Contexts, Fast | | Language Translator Apps, ChatGPT |
+| Autoencoders | Unsupervised | | | | Reduced Noise | | Fraud Detection Systems |
+| DBSCAN | Unsupervised | | | | Shapeable, Noise Handling | | Geo-Spatial Clustering |
   
 <hr />
   
